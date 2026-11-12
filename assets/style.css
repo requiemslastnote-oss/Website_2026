@@ -27,8 +27,9 @@ body {
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
 a {
-  color: --blue: #5899e2 /* the "inherit" property ensures that the element uses the same style as its parent - an element specific style will overwrite this property*/
-  text-decoration: --blue: #5899e2;
+    color: inherit; /* the "inherit" property ensures that the element uses the same style as its parent - an element specific style will overwrite this property*/
+  text-decoration: inherit;
+
 
 }
 
