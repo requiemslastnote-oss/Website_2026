@@ -14,3 +14,11 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
+
+< pip install colour
+< python setup.py install
+< pip install git+https://github.com/vaab/colour@master
+>>> from colour import Color
+>>> c = Color("blue")
+>>> c
+<Color blue>
