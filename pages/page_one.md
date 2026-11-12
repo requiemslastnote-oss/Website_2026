@@ -1,7 +1,7 @@
 # (I) Advantages of open source software
 
 <font size="5">  
-## Advantages of open source software
+**Advantages of open source software**
 
 As the name suggests, Open-source software is software whose code is open to public examination, allowing far greater transparency and the ability to modify the system than is possible with closed-source software. 
 
