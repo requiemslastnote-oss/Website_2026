@@ -15,10 +15,3 @@ You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
 
-< pip install colour
-< python setup.py install
-< pip install git+https://github.com/vaab/colour@master
->>> from colour import Color
->>> c = Color("blue")
->>> c
-<Color blue>
