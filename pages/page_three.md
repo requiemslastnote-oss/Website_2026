@@ -1,17 +1,31 @@
+# (III) Tropy as a tool for visual recognition in the humanities.  
+ 
+ 
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  font-size: 35px;
+}
+p {
+  font-size: 29px;
+}
+</style>
+</head>
+<body>
+
+<h1> Tropy </h1>
+<p>Tropy is open-source software that lets you organise and file visual materials, such as photos of pages or other physical artefacts, digitally. Tropy is technically independent but is jointly operated by RRCHNM and Digital Scholar and is funded by the Andrew W. Mellon Foundation, making its independence dubious. Its license is the GNU Affero General Public License, which is a license that focuses on greater transparency between developers and consumers regarding modified code: "if you run a modified program on a server and let other users communicate with it there, your server must also allow them to download the source code corresponding to the modified version running there."  The program has particular potential in literary history, as several original texts used in literary theory and history are best preserved in their original paperback editions. By using the original paperback, the writer ensures that the literature used is the original and not, as so often is the case, a reprint. Understanding the print history of a piece of literature is a major part of literary history. Using Tropy makes it much easier to note different pages and organise them without compromising the analyses being made, making it ideal for essays or master's theses. However, despite Tropy having a sizable staff during the program's development, updates appear to have stopped, with the latest update on March 31, 2023. If an error occurs, the student using the program would not be able to rely on a quick update to fix it.      </p>
+
+</body>
+</html>
 
  
  
- 
- 
- 
 
 
 
 
 
-
-
-<img width="360" height="360" alt="Franco jpg" src="https://github.com/user-attachments/assets/3ce9075f-2947-446c-8785-4e9037b42bff" />
-                                                    
-                                                      [Franco Moretti]
 
