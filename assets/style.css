@@ -69,14 +69,9 @@ section {
 /* hero banner */
 }
 #pageHero {
-<!DOCTYPE html>
-<html>
-<body>
 <h2>Background Image</h2>
 <p>A background image for a p element:</p>
 <p> style="background-image: url('NW_photo_1100x600.jpg');"> </p>
-  </body>
-</html>
 }
 
 #bannerShadow {
