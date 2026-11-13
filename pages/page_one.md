@@ -22,17 +22,14 @@ One of the great advantages of open source is its transparency. For how ingraine
 The fact that open source is free is also a major reason for its popularity. It allows companies, both big and small, that do not want to develop their own closed-source software but also do not wish to be reliant on another company's software to create and maintain a program. Linux alone provides the software needed for several applications, including: </p>  
 
 
-</p> -  Chrome OS </p> 
-</p> -  Major gaming platforms such as Steam OS </p> 
-</p> -  Most router systems </p> 
-</p> -  Several modern car systems, including Toyota, Mazda and Mercedes-Benz  </p>
+</p> -  Chrome OS -  Major gaming platforms such as Steam OS -  Most router systems -  Several modern car systems, including Toyota, Mazda and Mercedes-Benz </p>
 
- </p> As well as supporting the invisible backbone of many basic parts of the internet. </p>
+</p> As well as supporting the invisible backbone of many basic parts of the internet. </p>
 
 
- </p> Sources: </p>
+</p> Sources: </p>
 
- </p>[links]https://medium.com/@jbp_5214/open-source-software-advantages-and-disadvantages-72ccbce943b</p>
+</p>[links]https://medium.com/@jbp_5214/open-source-software-advantages-and-disadvantages-72ccbce943b</p>
 
 </p>[links]https://allthingsopen.org/articles/12-everyday-technologies-powered-by-linux </p>
 
