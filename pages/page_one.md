@@ -1,7 +1,7 @@
 # (I) Advantages of open source software
 
 
-<strong> Advantages of open source software <strong>
+## Advantages of open source software 
 
 
 <font size="4">  
@@ -17,7 +17,6 @@ The fact that open source is free is also a major reason for its popularity. It 
 - Several modern car systems, including Toyota, Mazda and Mercedes-Benz 
 
 As well as supporting the invisible backbone of many basic parts of the internet.  </p> 
-
 </font>
 
          
