@@ -16,7 +16,7 @@ The fact that open source is free is also a major reason for its popularity. It 
 - Most router systems 
 - Several modern car systems, including Toyota, Mazda and Mercedes-Benz 
 
-As well as supporting the invisible backbone of many basic parts of the internet.  </p> 
+As well as supporting the invisible backbone of many basic parts of the internet.
 </font>
 
          
