@@ -1,10 +1,10 @@
 # (I) Advantages of open source software
 
 
-<strong>Advantages of open source software<strong>
+<strong> Advantages of open source software <strong>
 
 
-<font size="4">  
+<font size="3">  
  As the name suggests, Open-source software is software whose code is open to public examination, allowing far greater transparency and the ability to modify the system than is possible with closed-source software. 
 
 One of the great advantages of open source is its transparency. For how ingrained technologies like Microsoft and Apple are in our everyday lives, it can come as a shock to some just how little we know and have control over the software used in their applications. This might not normally be a problem, but if an error occurs in the code or a hacker finds an exploit, it becomes impossible for the consumer to realise it or help maintain the code's safety. Of course, companies have their own coders to make sure this does not happen. However, both the quantity and quality of these workers depend on the company's prosperity and are therefore subject to sudden layoffs. Twitter (Now X) is an example of a technology company that mostly uses closed source and has undergone several layoffs, diminishing the app's quality. Beyond the loss of quality, the lack of open-source code makes finding bugs and exploits far slower and endangers users' personal information. This is different with open source, as code transparency allows millions of people to help keep the software safe by quickly and consistently finding errors or exploits. This helps keep the program safe while allowing users to modify their experiences to a far greater degree. 
