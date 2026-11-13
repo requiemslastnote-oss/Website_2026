@@ -25,8 +25,11 @@ The fact that open source is free is also a major reason for its popularity. It 
 <ul >
 <li style="font-size:29px";>
   Chrome OS 
+ 
   Major gaming platforms such as Steam OS
+ 
   Most router systems
+  
   Several modern car systems, including Toyota, Mazda and Mercedes-Benz 
 </li>
 </ul>
