@@ -1,4 +1,4 @@
-(# Title) (I) Advantages of open-source software
+# Title (I) Advantages of open-source software
 
 <!DOCTYPE html>
 <html>
@@ -24,6 +24,7 @@ The fact that open source is free is also a major reason for its popularity. It 
 
 <ul >
 <li style="font-size:29px";>
+
 -  Chrome OS 
   
 -  Major gaming platforms such as Steam OS
