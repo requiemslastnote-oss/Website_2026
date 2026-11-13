@@ -5,10 +5,10 @@
 <head>
 <style>
 h1 {
-  font-size: 50px;
+  font-size: 45px;
 }
 p {
-  font-size: 20px;
+  font-size: 35px;
 }
 </style>
 </head>
