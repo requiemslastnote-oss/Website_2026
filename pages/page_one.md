@@ -24,7 +24,7 @@ The fact that open source is free is also a major reason for its popularity. It 
 
 <ul >
 <li style="font-size:29px";>
-  Chrome OS 
+  • Chrome OS 
  
   • Major gaming platforms such as Steam OS
  
