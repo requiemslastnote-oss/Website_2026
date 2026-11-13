@@ -8,7 +8,7 @@ h1 {
   font-size: 45px;
 }
 p {
-  font-size: 35px;
+  font-size: 29px;
 }
 </style>
 </head>
@@ -27,8 +27,6 @@ The fact that open source is free is also a major reason for its popularity. It 
 - Several modern car systems, including Toyota, Mazda and Mercedes-Benz 
 
 As well as supporting the invisible backbone of many basic parts of the internet.</p>
-
-
 </body>
 </html>
 
@@ -43,7 +41,5 @@ As well as supporting the invisible backbone of many basic parts of the internet
 
 
 
-         
-[X, A company mostly reliant on closed software that has seen quality decline after several rounds of layoffs.] <img width="225" height="225" alt="X" src="https://github.com/user-attachments/assets/3d826242-6b03-45a0-bcc4-5e57bd5f3685" />
 
 
