@@ -1,4 +1,4 @@
-# (I) Advantages of open source software
+# (I) Advantages of open-source software
 
 <!DOCTYPE html>
 <html>
