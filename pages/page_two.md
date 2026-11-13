@@ -21,6 +21,12 @@ It is important to acknowledge that, although open-source software can improve a
 
 Another problem with open source is the general public's lack of interest in modifying software. Open source is both free and highly modifiable, which is one reason so many companies have chosen to use it; yet for the general public, these features can seem unnecessary. Although open-source software indeed allows for a far more personalised experience, it is also true that to be able to obtain this experience, some knowledge of coding as well as general tech savvy is needed, something many people do not possess. In reality, many people would gladly pay for closed-source software that is easy to use and convenient, especially if it allows them to use the same system they have grown accustomed to.  </p>
 
+Sources:
+
+ [links]https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software
+ 
+
+
 
 </body>
 </html>
