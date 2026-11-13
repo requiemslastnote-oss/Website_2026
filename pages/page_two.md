@@ -1,4 +1,4 @@
-# (II) Disadvantages of open source software.
+# (II) Disadvantages of open-source software.
 
 <!DOCTYPE html>
 <html>
@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-  font-size: 35px;
+  font-size: 29px;
   }
 </style>
 </head>
