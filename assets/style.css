@@ -69,7 +69,7 @@ section {
 /* hero banner */
 
 #pageHero {
-  background-image: url("./assets/images/NW_photo_1100x600.jpg.");
+  background-image: url(".images/assets/NW_photo_1100x600.jpg.");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
